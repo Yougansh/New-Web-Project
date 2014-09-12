@@ -1,30 +1,3 @@
-Big Picture by HTML5 UP
-html5up.net | @n33co
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-This is Big Picture, a simple, single page responsive site template by HTML5 UP.
-
-So I've been on a single page kick as of late, partly because I'm lazy, but
-mostly because they kick ass for experimentation. In this case, Big Picture
-makes heavy use of my (tentatively named and soon to be released) "scrollgress"
-and "scrollwatch" jQuery plugins to pull off some interesting effects as you
-scroll around the page. In addition to said interesting effects, Big Picture
-also includes a nice lightbox-style gallery, styling for basic page elements,
-a handy centralized settings area, and thoroughly commented code for your editing
-pleasure (with instructions! -- see below).
-
-Many thanks to my good friends Felicia Simion (ineedchemicalx.deviantart.com)
-and Michael Domaradzki (md.photomerchant.net) for allowing me to use their amazing
-photos in Big Picture's demo*.
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's or Michael's work without their explicit permission!)
-
-AJ
-n33.co @n33co dribbble.com/n33
-
-
 Instructions:
 
 	Overview:
@@ -189,20 +162,6 @@ Instructions:
 
 
 Credits:
-
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-			"The Swallow Song"
-			"Mind is a clear stage"
-			"The Anonymous Red"
-			"The sparkling shell"
-			"Carry on"
-
-		Michael Domaradzki (md.photomerchant.net)
-			"Vine Country"
-			"Airchitecture II"
-			"Bent IX"
-			"Air Lounge"
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
